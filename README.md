@@ -165,3 +165,5 @@ secret key.
       consists of the SHA256 of the combined string of username, hashed pin, and a timestamp of this
       hash is computed. By including the time stamp, even if the attacker has the PIN and username,
       the attacker cannot run SHA256 and hash it themselves.
+      
+![Image Description](/img-description.png)
