@@ -166,4 +166,4 @@ secret key.
       hash is computed. By including the time stamp, even if the attacker has the PIN and username,
       the attacker cannot run SHA256 and hash it themselves.
       
-![Image Description](/img-description.png)
+![Image Description](/img-description.jpeg)
