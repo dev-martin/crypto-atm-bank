@@ -1,0 +1,6 @@
+#!/bin/bash
+#!/usr/bin/python
+
+python init.py $@
+exit $?
+
