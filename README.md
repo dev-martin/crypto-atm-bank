@@ -1,5 +1,6 @@
 # Protocol
 ![Image Description](/img-description.jpeg)
+
 Our protocol consist of 4 programs:
 1. “BANK”: Command-line interface used by bank manager to set up and manage customers
 accounts.
