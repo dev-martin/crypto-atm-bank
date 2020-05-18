@@ -1,4 +1,5 @@
 # Protocol
+![Image Description](/img-description.jpeg)
 Our protocol consist of 4 programs:
 1. “BANK”: Command-line interface used by bank manager to set up and manage customers
 accounts.
@@ -166,4 +167,4 @@ secret key.
       hash is computed. By including the time stamp, even if the attacker has the PIN and username,
       the attacker cannot run SHA256 and hash it themselves.
       
-![Image Description](/img-description.jpeg)
+
